@@ -1,0 +1,16 @@
+{
+  "monthlyCollection": [
+    { "month": "January", "amount": 2000 },
+    { "month": "February", "amount": 2500 },
+    { "month": "March", "amount": 2800 },
+    { "month": "April", "amount": 2900 },
+    { "month": "May", "amount": 2500 },
+    { "month": "June", "amount": 2900 },
+    { "month": "July", "amount": 2000 },
+    { "month": "August", "amount": 2100 },
+    { "month": "September", "amount": 2700 },
+    { "month": "October", "amount": 2300 },
+    { "month": "November", "amount": 2200 },
+    { "month": "December", "amount": 2800 }
+  ]
+}
